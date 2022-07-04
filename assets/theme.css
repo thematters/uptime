@@ -1,0 +1,13 @@
+:root {
+  --body-background-color: #fff;
+  --body-text-color: #000;
+  --card-background-color: #0d6763;
+  --nav-background-color: #0d6763;
+  --nav-border-bottom-color: #0d6763;
+  --nav-current-border-bottom-color: #0d6763;
+  --card-border-color: #0d6763;
+  --down-border-left-color: #c85c41;
+  --down-background-color: #6b1020;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+}
