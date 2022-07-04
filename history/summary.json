@@ -40,20 +40,18 @@
     "url": "https://ipfs.io/ipfs/QmNXVLMMLEq8XHtErBh3NFBetGt29wD7V2aXDp29Q4Lo4C",
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "matters-ipfs",
-    "status": "down",
-    "uptime": "25.61%",
-    "uptimeDay": "25.61%",
-    "uptimeWeek": "25.61%",
-    "uptimeMonth": "25.61%",
-    "uptimeYear": "25.61%",
-    "time": 1308,
-    "timeDay": 1308,
-    "timeWeek": 1308,
-    "timeMonth": 1308,
-    "timeYear": 1308,
-    "dailyMinutesDown": {
-      "2022-07-04": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matters (Landing Page)",
