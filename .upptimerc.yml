@@ -3,20 +3,24 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Matters (matters.news)
+    url: https://matters.news/
+  - name: Matters (API)
+    url: https://server.matters.news/playground
+  - name: Matters (IPFS)
+    url: https://ipfs.io/ipfs/QmNXVLMMLEq8XHtErBh3NFBetGt29wD7V2aXDp29Q4Lo4C
+  - name: Matters (Landing Page)
+    url: http://matters-lab.io/
+  - name: The Space (Landing Page)
+    url: https://www.thespace.game/
+  - name: The Space (App)
+    url: https://app.thespace.game/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
