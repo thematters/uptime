@@ -4,19 +4,19 @@
     "url": "https://matters.news/",
     "icon": "https://favicons.githubusercontent.com/matters.news",
     "slug": "matters-matters-news",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4034,
     "timeDay": 2891,
     "timeWeek": 4034,
     "timeMonth": 4034,
     "timeYear": 4034,
     "dailyMinutesDown": {
-      "2022-07-07": 9
+      "2022-07-07": 0
     }
   },
   {
