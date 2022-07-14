@@ -42,19 +42,19 @@
     "url": "https://ipfs.io/ipfs/QmNXVLMMLEq8XHtErBh3NFBetGt29wD7V2aXDp29Q4Lo4C",
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "matters-ipfs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2551,
-    "timeDay": 37,
-    "timeWeek": 640,
-    "timeMonth": 2551,
-    "timeYear": 2551,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2519,
+    "timeDay": 673,
+    "timeWeek": 759,
+    "timeMonth": 2519,
+    "timeYear": 2519,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 8
     }
   },
   {
