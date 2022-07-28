@@ -4,19 +4,19 @@
     "url": "https://matters.news/",
     "icon": "https://favicons.githubusercontent.com/matters.news",
     "slug": "matters-matters-news",
-    "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "62.14%",
-    "uptimeWeek": "94.44%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
-    "time": 4259,
-    "timeDay": 9947,
-    "timeWeek": 6592,
-    "timeMonth": 4259,
-    "timeYear": 4259,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "55.19%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 4235,
+    "timeDay": 9489,
+    "timeWeek": 6439,
+    "timeMonth": 4235,
+    "timeYear": 4235,
     "dailyMinutesDown": {
-      "2022-07-28": 546,
+      "2022-07-28": 646,
       "2022-07-26": 15,
       "2022-07-07": 27
     }
@@ -67,19 +67,17 @@
     "icon": "https://favicons.githubusercontent.com/matters-lab.io",
     "slug": "matters-landing-page",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 161,
     "timeDay": 189,
     "timeWeek": 160,
     "timeMonth": 161,
     "timeYear": 161,
-    "dailyMinutesDown": {
-      "2022-07-28": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Space (Landing Page)",
@@ -87,19 +85,17 @@
     "icon": "https://favicons.githubusercontent.com/www.thespace.game",
     "slug": "the-space-landing-page",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 336,
     "timeWeek": 499,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {
-      "2022-07-28": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Space (App)",
