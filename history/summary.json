@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/matters.news",
     "slug": "matters-matters-news",
     "status": "up",
-    "uptime": "95.02%",
+    "uptime": "95.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.02%",
+    "uptimeYear": "95.03%",
     "time": 2811,
     "timeDay": 2756,
     "timeWeek": 1204,
@@ -58,12 +58,12 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.54%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.54%",
     "time": 1024,
     "timeDay": 25,
-    "timeWeek": 273,
+    "timeWeek": 315,
     "timeMonth": 207,
     "timeYear": 1024,
     "dailyMinutesDown": {
@@ -102,9 +102,9 @@
     "url": "https://www.thespace.game/",
     "icon": "https://favicons.githubusercontent.com/www.thespace.game",
     "slug": "the-space-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,16 +113,18 @@
     "timeWeek": 446,
     "timeMonth": 578,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   },
   {
     "name": "The Space (App)",
     "url": "https://app.thespace.game/",
     "icon": "https://favicons.githubusercontent.com/app.thespace.game",
     "slug": "the-space-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,6 +133,8 @@
     "timeWeek": 1059,
     "timeMonth": 1055,
     "timeYear": 1120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   }
 ]
