@@ -7,8 +7,8 @@ sites:
     url: https://matters.news/
   - name: Matters (API)
     url: https://server.matters.news/playground
-  - name: Matters (IPFS)
-    url: https://ipfs.io/ipfs/QmNXVLMMLEq8XHtErBh3NFBetGt29wD7V2aXDp29Q4Lo4C
+#   - name: Matters (IPFS)
+#     url: https://ipfs.io/ipfs/QmNXVLMMLEq8XHtErBh3NFBetGt29wD7V2aXDp29Q4Lo4C
   - name: Matters (Landing Page)
     url: http://matters-lab.io/
   - name: The Space (Landing Page)
