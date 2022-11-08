@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Matters (matters.news)
-    url: https://matters.news/
+    url: https://matters.news/?utm_source=uptime
   - name: Matters (API)
     url: https://server.matters.news/playground
 #   - name: Matters (IPFS)
