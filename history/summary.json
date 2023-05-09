@@ -110,19 +110,19 @@
     "url": "https://app.thespace.game/",
     "icon": "https://icons.duckduckgo.com/ip3/app.thespace.game.ico",
     "slug": "the-space-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 547,
-    "timeDay": 308,
-    "timeWeek": 262,
-    "timeMonth": 291,
+    "timeDay": 334,
+    "timeWeek": 275,
+    "timeMonth": 294,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2023-05-09": 0,
+      "2023-05-09": 10,
       "2022-09-30": 76
     }
   }
