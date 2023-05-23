@@ -90,9 +90,9 @@
     "url": "https://www.thespace.game/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thespace.game.ico",
     "slug": "the-space-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -102,6 +102,7 @@
     "timeMonth": 526,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2022-09-30": 96
     }
   },
