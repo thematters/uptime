@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-news",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.56%",
     "time": 1534,
-    "timeDay": 1451,
-    "timeWeek": 1358,
-    "timeMonth": 1504,
+    "timeDay": 1430,
+    "timeWeek": 1400,
+    "timeMonth": 1525,
     "timeYear": 1534,
     "dailyMinutesDown": {
       "2023-02-17": 16,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 539,
-    "timeDay": 497,
-    "timeWeek": 694,
-    "timeMonth": 573,
-    "timeYear": 539,
+    "time": 538,
+    "timeDay": 470,
+    "timeWeek": 705,
+    "timeMonth": 576,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2022-09-08": 23,
       "2022-07-29": 266
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 279,
-    "timeWeek": 191,
-    "timeMonth": 208,
-    "timeYear": 204,
+    "time": 205,
+    "timeDay": 230,
+    "timeWeek": 204,
+    "timeMonth": 201,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-08-13": 26
     }
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 570,
-    "timeDay": 474,
-    "timeWeek": 547,
-    "timeMonth": 527,
-    "timeYear": 570,
+    "time": 568,
+    "timeDay": 175,
+    "timeWeek": 478,
+    "timeMonth": 522,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2022-09-30": 96
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 537,
-    "timeDay": 276,
-    "timeWeek": 251,
-    "timeMonth": 328,
-    "timeYear": 537,
+    "time": 536,
+    "timeDay": 279,
+    "timeWeek": 249,
+    "timeMonth": 325,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2022-09-30": 76
     }
