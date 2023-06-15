@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-news",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 1533,
     "timeDay": 1307,
     "timeWeek": 1486,
@@ -90,9 +90,9 @@
     "url": "https://www.thespace.game/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thespace.game.ico",
     "slug": "the-space-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -102,6 +102,7 @@
     "timeMonth": 534,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2022-09-30": 96
     }
   },
