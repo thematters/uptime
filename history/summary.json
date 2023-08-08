@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-news",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 1514,
-    "timeDay": 1071,
-    "timeWeek": 1093,
-    "timeMonth": 1211,
-    "timeYear": 1169,
+    "time": 1515,
+    "timeDay": 2151,
+    "timeWeek": 1282,
+    "timeMonth": 1207,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2023-02-17": 16,
       "2022-12-04": 21,
@@ -48,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 533,
-    "timeDay": 696,
-    "timeWeek": 510,
-    "timeMonth": 502,
+    "timeDay": 454,
+    "timeWeek": 502,
+    "timeMonth": 497,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2022-09-08": 23
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 119,
-    "timeWeek": 192,
-    "timeMonth": 215,
+    "timeDay": 200,
+    "timeWeek": 190,
+    "timeMonth": 211,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2022-08-13": 26
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 555,
-    "timeDay": 471,
-    "timeWeek": 534,
-    "timeMonth": 496,
-    "timeYear": 561,
+    "timeDay": 618,
+    "timeWeek": 555,
+    "timeMonth": 499,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-09-30": 96
     }
@@ -108,10 +108,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 487,
-    "timeDay": 89,
-    "timeWeek": 235,
-    "timeMonth": 243,
-    "timeYear": 429,
+    "timeDay": 416,
+    "timeWeek": 262,
+    "timeMonth": 254,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2022-09-30": 76
     }
