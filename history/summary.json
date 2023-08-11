@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-news",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.75%",
     "time": 1517,
-    "timeDay": 2000,
-    "timeWeek": 1685,
-    "timeMonth": 1263,
-    "timeYear": 1173,
+    "timeDay": 1490,
+    "timeWeek": 1781,
+    "timeMonth": 1274,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2023-02-17": 16,
       "2022-12-04": 21,
@@ -31,8 +31,7 @@
       "2022-11-04": 18,
       "2022-11-02": 27,
       "2022-10-31": 46,
-      "2022-08-18": 17,
-      "2022-08-11": 825
+      "2022-08-18": 17
     }
   },
   {
@@ -46,10 +45,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 590,
-    "timeWeek": 608,
-    "timeMonth": 512,
+    "time": 533,
+    "timeDay": 420,
+    "timeWeek": 581,
+    "timeMonth": 510,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2022-09-08": 23
@@ -66,10 +65,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 235,
-    "timeWeek": 187,
-    "timeMonth": 208,
+    "time": 207,
+    "timeDay": 296,
+    "timeWeek": 190,
+    "timeMonth": 213,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2022-08-13": 26
@@ -87,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 556,
-    "timeDay": 703,
-    "timeWeek": 565,
-    "timeMonth": 502,
+    "timeDay": 603,
+    "timeWeek": 576,
+    "timeMonth": 501,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2022-09-30": 96
@@ -107,10 +106,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 485,
-    "timeDay": 183,
-    "timeWeek": 254,
-    "timeMonth": 252,
-    "timeYear": 424,
+    "timeDay": 98,
+    "timeWeek": 210,
+    "timeMonth": 246,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2022-09-30": 76
     }
