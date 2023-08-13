@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1516,
-    "timeDay": 1092,
-    "timeWeek": 1696,
-    "timeMonth": 1262,
-    "timeYear": 1167,
+    "time": 1517,
+    "timeDay": 1615,
+    "timeWeek": 1715,
+    "timeMonth": 1273,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-02-17": 16,
       "2022-12-04": 21,
@@ -45,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 845,
-    "timeWeek": 642,
-    "timeMonth": 521,
-    "timeYear": 470,
+    "time": 533,
+    "timeDay": 242,
+    "timeWeek": 584,
+    "timeMonth": 513,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2022-09-08": 23
     }
@@ -66,13 +66,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 414,
-    "timeWeek": 232,
-    "timeMonth": 222,
+    "timeDay": 173,
+    "timeWeek": 227,
+    "timeMonth": 217,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2022-08-13": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Space (Landing Page)",
@@ -86,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 555,
-    "timeDay": 325,
-    "timeWeek": 573,
-    "timeMonth": 503,
+    "timeDay": 224,
+    "timeWeek": 508,
+    "timeMonth": 487,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2022-09-30": 96
@@ -105,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 484,
-    "timeDay": 272,
-    "timeWeek": 231,
-    "timeMonth": 247,
-    "timeYear": 419,
+    "time": 483,
+    "timeDay": 236,
+    "timeWeek": 218,
+    "timeMonth": 242,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2022-09-30": 76
     }
