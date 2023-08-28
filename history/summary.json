@@ -58,19 +58,19 @@
     "url": "http://matters-lab.io/",
     "icon": "https://icons.duckduckgo.com/ip3/matters-lab.io.ico",
     "slug": "matters-landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 221,
-    "timeWeek": 218,
-    "timeMonth": 231,
+    "timeDay": 240,
+    "timeWeek": 224,
+    "timeMonth": 233,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-08-28": 0
+      "2023-08-28": 8
     }
   },
   {
