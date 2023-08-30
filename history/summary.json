@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1502,
-    "timeDay": 1151,
-    "timeWeek": 1641,
-    "timeMonth": 1496,
-    "timeYear": 1153,
+    "time": 1490,
+    "timeDay": 1035,
+    "timeWeek": 1551,
+    "timeMonth": 1523,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2023-02-17": 16,
       "2022-12-04": 21,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 535,
-    "timeDay": 265,
-    "timeWeek": 638,
-    "timeMonth": 548,
+    "timeDay": 713,
+    "timeWeek": 564,
+    "timeMonth": 561,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2022-09-08": 23
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters-lab.io.ico",
     "slug": "matters-landing-page",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 240,
-    "timeWeek": 224,
+    "timeDay": 151,
+    "timeWeek": 219,
     "timeMonth": 233,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2023-08-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Space (Landing Page)",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 557,
-    "timeDay": 688,
-    "timeWeek": 504,
-    "timeMonth": 573,
-    "timeYear": 556,
+    "time": 556,
+    "timeDay": 309,
+    "timeWeek": 456,
+    "timeMonth": 563,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2022-09-30": 96
     }
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 475,
-    "timeDay": 87,
-    "timeWeek": 178,
-    "timeMonth": 229,
-    "timeYear": 361,
+    "time": 474,
+    "timeDay": 242,
+    "timeWeek": 187,
+    "timeMonth": 237,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2022-09-30": 76
     }
