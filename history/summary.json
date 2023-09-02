@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-news",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1488,
-    "timeDay": 1611,
-    "timeWeek": 1437,
-    "timeMonth": 1542,
+    "time": 1487,
+    "timeDay": 940,
+    "timeWeek": 1384,
+    "timeMonth": 1547,
     "timeYear": 1152,
     "dailyMinutesDown": {
       "2023-02-17": 16,
@@ -44,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 606,
-    "timeWeek": 540,
-    "timeMonth": 566,
-    "timeYear": 472,
+    "time": 535,
+    "timeDay": 416,
+    "timeWeek": 552,
+    "timeMonth": 567,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2022-09-08": 23
     }
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 254,
-    "timeWeek": 216,
-    "timeMonth": 234,
-    "timeYear": 214,
+    "timeDay": 208,
+    "timeWeek": 202,
+    "timeMonth": 237,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -83,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 557,
-    "timeDay": 488,
-    "timeWeek": 500,
-    "timeMonth": 574,
+    "timeDay": 639,
+    "timeWeek": 533,
+    "timeMonth": 575,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2022-09-30": 96
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 473,
-    "timeDay": 196,
-    "timeWeek": 220,
-    "timeMonth": 235,
-    "timeYear": 354,
+    "time": 472,
+    "timeDay": 138,
+    "timeWeek": 215,
+    "timeMonth": 236,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2022-09-30": 76
     }
