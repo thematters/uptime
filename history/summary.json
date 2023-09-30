@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1304,
-    "timeDay": 905,
-    "timeWeek": 1244,
+    "time": 1302,
+    "timeDay": 1022,
+    "timeWeek": 1237,
     "timeMonth": 1337,
-    "timeYear": 1170,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2023-02-17": 16,
       "2022-12-04": 21,
@@ -44,10 +44,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 613,
-    "timeWeek": 566,
-    "timeMonth": 502,
+    "time": 532,
+    "timeDay": 295,
+    "timeWeek": 535,
+    "timeMonth": 488,
     "timeYear": 472,
     "dailyMinutesDown": {}
   },
@@ -63,10 +63,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 301,
-    "timeWeek": 258,
-    "timeMonth": 220,
-    "timeYear": 212,
+    "timeDay": 179,
+    "timeWeek": 242,
+    "timeMonth": 221,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -80,14 +80,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 549,
-    "timeDay": 134,
-    "timeWeek": 429,
-    "timeMonth": 438,
+    "time": 548,
+    "timeDay": 108,
+    "timeWeek": 359,
+    "timeMonth": 432,
     "timeYear": 543,
-    "dailyMinutesDown": {
-      "2022-09-30": 96
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Space (App)",
@@ -101,12 +99,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 455,
-    "timeDay": 141,
-    "timeWeek": 207,
-    "timeMonth": 192,
-    "timeYear": 288,
-    "dailyMinutesDown": {
-      "2022-09-30": 76
-    }
+    "timeDay": 124,
+    "timeWeek": 209,
+    "timeMonth": 188,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
   }
 ]
