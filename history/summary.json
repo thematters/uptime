@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 913,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
+    "time": 970,
+    "timeDay": 947,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "matters-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 571,
-    "timeWeek": 503,
-    "timeMonth": 556,
+    "time": 504,
+    "timeDay": 497,
+    "timeWeek": 482,
+    "timeMonth": 547,
     "timeYear": 490,
-    "dailyMinutesDown": {
-      "2023-11-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matters (Landing Page)",
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 235,
-    "timeYear": 215,
+    "timeDay": 90,
+    "timeWeek": 158,
+    "timeMonth": 230,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 551,
-    "timeWeek": 492,
-    "timeMonth": 541,
-    "timeYear": 536,
+    "timeDay": 405,
+    "timeWeek": 478,
+    "timeMonth": 540,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
+    "time": 429,
     "timeDay": 297,
-    "timeWeek": 297,
-    "timeMonth": 246,
-    "timeYear": 277,
+    "timeWeek": 305,
+    "timeMonth": 247,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   }
 ]
