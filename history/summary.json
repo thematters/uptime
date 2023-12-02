@@ -4,19 +4,19 @@
     "url": "https://matters.town/?utm_source=uptime",
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-town",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1534,
-    "timeDay": 2410,
-    "timeWeek": 1756,
-    "timeMonth": 1534,
-    "timeYear": 1534,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1520,
+    "timeDay": 1781,
+    "timeWeek": 1681,
+    "timeMonth": 1520,
+    "timeYear": 1520,
     "dailyMinutesDown": {
-      "2023-12-02": 0
+      "2023-12-02": 7
     }
   },
   {
