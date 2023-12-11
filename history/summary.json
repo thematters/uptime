@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-town",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1455,
-    "timeDay": 987,
-    "timeWeek": 1325,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1440,
+    "timeDay": 1023,
+    "timeWeek": 1216,
     "timeMonth": 1531,
-    "timeYear": 1455,
-    "dailyMinutesDown": {
-      "2023-12-10": 6
-    }
+    "timeYear": 1440,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matters (API)",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 713,
-    "timeWeek": 430,
-    "timeMonth": 503,
-    "timeYear": 493,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 511,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 84,
-    "timeWeek": 169,
-    "timeMonth": 193,
+    "timeDay": 305,
+    "timeWeek": 176,
+    "timeMonth": 194,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 304,
-    "timeWeek": 466,
-    "timeMonth": 415,
-    "timeYear": 516,
+    "timeDay": 431,
+    "timeWeek": 461,
+    "timeMonth": 411,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 393,
-    "timeWeek": 304,
+    "time": 381,
+    "timeDay": 332,
+    "timeWeek": 325,
     "timeMonth": 264,
-    "timeYear": 270,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   }
 ]
