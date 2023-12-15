@@ -40,18 +40,20 @@
     "url": "http://matters-lab.io/",
     "icon": "https://icons.duckduckgo.com/ip3/matters-lab.io.ico",
     "slug": "matters-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 196,
-    "timeWeek": 189,
-    "timeMonth": 191,
+    "timeDay": 233,
+    "timeWeek": 199,
+    "timeMonth": 194,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "The Space (Landing Page)",
