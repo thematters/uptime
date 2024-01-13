@@ -22,18 +22,20 @@
     "url": "https://server.matters.town/playground",
     "icon": "https://icons.duckduckgo.com/ip3/server.matters.town.ico",
     "slug": "matters-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 676,
-    "timeWeek": 432,
-    "timeMonth": 474,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "timeDay": 486,
+    "timeWeek": 415,
+    "timeMonth": 468,
+    "timeYear": 493,
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   },
   {
     "name": "Matters (Landing Page)",
