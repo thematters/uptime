@@ -40,19 +40,19 @@
     "url": "http://matters-lab.io/",
     "icon": "https://icons.duckduckgo.com/ip3/matters-lab.io.ico",
     "slug": "matters-landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 1280,
-    "timeWeek": 494,
-    "timeMonth": 275,
+    "timeDay": 957,
+    "timeWeek": 474,
+    "timeMonth": 276,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 16
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "the-space-landing-page",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 365,
@@ -72,7 +72,7 @@
     "timeMonth": 453,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 16
     }
   },
   {
