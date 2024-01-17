@@ -40,36 +40,40 @@
     "url": "http://matters-lab.io/",
     "icon": "https://icons.duckduckgo.com/ip3/matters-lab.io.ico",
     "slug": "matters-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 245,
-    "timeWeek": 234,
-    "timeMonth": 209,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 1280,
+    "timeWeek": 494,
+    "timeMonth": 275,
+    "timeYear": 218,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "The Space (Landing Page)",
     "url": "https://www.thespace.game/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thespace.game.ico",
     "slug": "the-space-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 381,
-    "timeWeek": 421,
-    "timeMonth": 456,
+    "timeDay": 365,
+    "timeWeek": 412,
+    "timeMonth": 453,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "The Space (App)",
