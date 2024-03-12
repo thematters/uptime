@@ -4,36 +4,40 @@
     "url": "https://matters.town/?utm_source=uptime",
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-town",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1550,
-    "timeDay": 1138,
-    "timeWeek": 1452,
-    "timeMonth": 1659,
-    "timeYear": 1550,
-    "dailyMinutesDown": {}
+    "time": 1542,
+    "timeDay": 785,
+    "timeWeek": 1324,
+    "timeMonth": 1619,
+    "timeYear": 1542,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "Matters (API)",
     "url": "https://server.matters.town/playground",
     "icon": "https://icons.duckduckgo.com/ip3/server.matters.town.ico",
     "slug": "matters-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 475,
-    "timeWeek": 521,
-    "timeMonth": 462,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "timeDay": 261,
+    "timeWeek": 474,
+    "timeMonth": 449,
+    "timeYear": 503,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "Matters (Landing Page)",
