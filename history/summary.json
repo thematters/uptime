@@ -4,7 +4,7 @@
     "url": "https://matters.town/?utm_source=uptime",
     "icon": "https://icons.duckduckgo.com/ip3/matters.town.ico",
     "slug": "matters-matters-town",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1521,
     "timeYear": 1552,
     "dailyMinutesDown": {
+      "2024-05-23": 0,
       "2024-03-13": 23,
       "2024-03-12": 610
     }
