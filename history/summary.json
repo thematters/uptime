@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 1565,
-    "timeDay": 1170,
-    "timeWeek": 1519,
-    "timeMonth": 1559,
-    "timeYear": 1565,
+    "time": 1563,
+    "timeDay": 1174,
+    "timeWeek": 1533,
+    "timeMonth": 1560,
+    "timeYear": 1563,
     "dailyMinutesDown": {
       "2024-07-24": 226,
       "2024-07-23": 285,
@@ -30,14 +30,14 @@
     "slug": "matters-api",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.78%",
-    "time": 518,
-    "timeDay": 532,
-    "timeWeek": 606,
-    "timeMonth": 589,
+    "time": 519,
+    "timeDay": 849,
+    "timeWeek": 667,
+    "timeMonth": 593,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2024-08-28": 9,
@@ -59,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 292,
+    "timeDay": 224,
     "timeWeek": 235,
-    "timeMonth": 245,
-    "timeYear": 241,
+    "timeMonth": 244,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2024-01-17": 16
     }
@@ -79,10 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 559,
-    "timeWeek": 553,
-    "timeMonth": 517,
-    "timeYear": 515,
+    "timeDay": 617,
+    "timeWeek": 563,
+    "timeMonth": 525,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2024-01-17": 25
     }
@@ -99,10 +99,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 385,
-    "timeWeek": 330,
-    "timeMonth": 284,
-    "timeYear": 245,
+    "timeDay": 104,
+    "timeWeek": 290,
+    "timeMonth": 285,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
